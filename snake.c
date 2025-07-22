@@ -18,7 +18,6 @@ char lastinp = 'w';
 // there is probably a better solution for this
 int appvar = 0;
 int ret = 0;
-int dM = 1;
 
 //sets face to input value
 void mvsnake(){
